@@ -1,0 +1,45 @@
+/******************************************
+/* CSS
+/*******************************************/
+
+/* Box Model Hack */
+*{
+  box-sizing: border-box;
+  color: #E08F9A
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+img{
+  display: block;
+  margin: 0 auto;
+  height: 200px;
+}
+
+h1{
+  color: red;
+  font-size: 100px;
+  display: none;
+  text-align: center;
+}
+
+main{
+  display: flex;
+  
+  
+
+}
+
+section{
+  width: 32%;
+  background-color: #F8EFDD;
+  margin: 1%;
+  border-radius: 5%;
+  padding: 1%;
+  
+}
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
